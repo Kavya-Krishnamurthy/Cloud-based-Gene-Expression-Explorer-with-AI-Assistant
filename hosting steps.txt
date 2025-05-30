@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri May 30 18:47:29 2025
+
+@author: kavyadeepak
+"""
+
+. Hosting on Streamlit Cloud
+
+Push your project to GitHub
+Go to streamlit.io/cloud
+Click “New app” → Connect to GitHub → Select streamlit_app.py
+Set OPENAI_API_KEY in Secrets tab
+Deploy!
+
+
+
+Done! You now have:
+
+A working RNA-seq explorer
+AI-powered assistant to ask biological questions
+Beautiful plots (PCA, heatmap)
+Live app hosted in the cloud
+Would you like me to:
+
+Generate the sample expression_matrix.csv for testing?
+Help with assets (Doodle-style bot UI)?
+Add export/download button for analysis results?
+Let’s make it interactive and fun to use!
